@@ -6,9 +6,16 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andyka-salom&layout=compact&theme=midnight-purple)](https://github.com/andyka-salom)
 
 
-<a href="https://www.linkedin.com/in/andyka-salom/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bayu1s" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/andyka-salom/" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+</a>
+<a href="https://andykasalom.vercel.app" target="_blank" rel="noreferrer">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/web.svg" alt="website" height="30" width="40" />
+</a>
+<a href="https://www.instagram.com/nextcodee" target="_blank" rel="noreferrer">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="40" />
+</a>
 
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
