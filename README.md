@@ -66,6 +66,7 @@ fun_fact: "I build the tools that keep the whole company running."
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
@@ -100,7 +101,10 @@ fun_fact: "I build the tools that keep the whole company running."
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=andyka-salom&theme=algolia&no-frame=true&row=1&column=7" alt="trophy" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=andyka-salom&theme=onedark&no-frame=true&row=1&column=7&margin-w=8" />
+    <img src="https://github-profile-trophy.vercel.app/?username=andyka-salom&theme=flat&no-frame=true&row=1&column=7&margin-w=8" alt="trophy" />
+  </picture>
 </p>
 
 <br>
@@ -108,10 +112,11 @@ fun_fact: "I build the tools that keep the whole company running."
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andyka-salom/andyka-salom/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andyka-salom/andyka-salom/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/andyka-salom/andyka-salom/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  </picture>
 </p>
-
-<sub>💡 To activate the snake animation above, set up the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action in this repo — it generates the SVG automatically on a schedule.</sub>
 
 <br>
 
